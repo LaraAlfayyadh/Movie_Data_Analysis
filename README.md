@@ -1,7 +1,7 @@
 # Udacity_Data_Analyst_project2
 
 ## Movie Analysis
-## by (Mona Alfayyadh)
+## by (Lara Alfayyadh)
 
 ### I completed this project as part of Udacity's Data Analyst Nanodegree.
 
